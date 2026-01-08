@@ -1,0 +1,8 @@
+# Files
+.DB_Store
+.env
+
+# Folders
+dist/
+node_modules/
+
