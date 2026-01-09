@@ -2,6 +2,10 @@
 
 Site that's translate Arabic and English languages to Cuneiform.
 
+## Preview
+
+![Preview](./demo/1.png)
+
 ## Run App
 
 ```bash
