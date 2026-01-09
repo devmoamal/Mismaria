@@ -16,3 +16,5 @@ bun run dev
 - **Vite**
 - **ReactJS**
 - **Tailwindcss**
+- **Zustand**
+- **Zod**
