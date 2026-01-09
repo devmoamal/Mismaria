@@ -1,6 +1,6 @@
-# My Link Space
+# Mismaria
 
-Simple and lightweight self-hosted link in bio sites like
+Site that's translate Arabic and English languages to Cuneiform.
 
 ## Run App
 
